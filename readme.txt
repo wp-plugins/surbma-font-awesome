@@ -4,7 +4,7 @@ Donate link: http://surbma.com/
 Tags: font awesome, icon font, icons
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 2.0.0
+Stable tag: 2.1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,7 +14,8 @@ Font Awesome - The iconic font designed for Bootstrap
 
 With this plugin you can use the iconic font designed for Bootstrap, the Font Awesome icons. It is loading the css and the font files from the MaxCDN network, which means super fast loading, wherever your visitors are on this planet.
 
-You get also a very useful shortcode to use icons on your site: `[fa class="fa-camera-retro"]`
+You get also a very useful shortcode to use icons on your site:
+`[fa class="fa-camera-retro"]`
 
 As you can see, you only need to add the icon name, that's it. Isn't it awesome? If you use the `<i class="fa fa-camera-retro"></i>` code, the WordPress editor will remove it, because it is an empty code, which "should be removed". So with this shortcode, you can use the Font Awesome icons wherever you want.
 
@@ -37,6 +38,10 @@ Here you can see them: <a href="http://fortawesome.github.io/Font-Awesome/icons/
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 2.1.0 =
+
+- Added hungarian translation.
 
 = 2.0.0 =
 
